@@ -1,0 +1,22 @@
+div.loadingimg {
+    position: fixed;
+    text-align: center;
+    padding-top: 20%;
+    vertical-align: middle;
+    z-index: 100;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    background-color: #fff;
+    -moz-opacity: 0.75;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+.red {color:red;
+}
